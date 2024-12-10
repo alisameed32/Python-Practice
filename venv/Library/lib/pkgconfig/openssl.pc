@@ -1,0 +1,9 @@
+prefix=F:/Self Learning/AI, DS, ML, DL, NLP/Python Practice/venv/Library 
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: OpenSSL
+Description: Secure Sockets Layer and cryptography libraries and tools
+Requires: libssl libcrypto
+Version: 3.0.15 
