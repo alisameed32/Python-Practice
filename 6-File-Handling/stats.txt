@@ -1,0 +1,6 @@
+Hi, I’m Ali Sameed Arbani, an undergraduate student in Computer Science with a deep interest in Brain-Computer Interfaces (BCI). 
+My aspiration is to pursue a master’s degree in Neural Computation or Brain-Computer Interface from prestigious institutions like MIT.
+
+Currently, I’m immersing myself in Artificial Intelligence, Machine Learning, Data Science, and Natural Language Processing to build a 
+solid foundation for my upcoming Final Year Project (FYP). This year, I plan to focus my FYP on groundbreaking research in the field of 
+Brain-Computer Interfaces, combining my passion for technology and neuroscience.

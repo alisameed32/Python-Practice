@@ -1,0 +1,15 @@
+{
+    "students": [
+      {
+        "name": "Ali Sameed Arbani",
+        "university": "MIT",
+        "program": "PhD"
+      },
+      {
+        "name": "Ali Sameed Arbani",
+        "university": "Stanford",
+        "program": "Master"
+      }
+    ]
+  }
+  
