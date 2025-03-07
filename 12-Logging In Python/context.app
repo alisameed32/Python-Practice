@@ -1,0 +1,15 @@
+2025-03-07 17:00:43,921 - contextual - DEBUG - This is a debug message
+2025-03-07 17:00:43,922 - contextual - INFO - This is an info message
+2025-03-07 17:00:43,922 - contextual - WARNING - This is a warning message
+2025-03-07 17:00:43,922 - contextual - ERROR - This is an error message
+2025-03-07 17:00:43,922 - contextual - CRITICAL - This is a critical message
+2025-03-07 17:01:06,680 - contextual - DEBUG - This is a debug message
+2025-03-07 17:01:06,681 - contextual - INFO - This is an info message
+2025-03-07 17:01:06,681 - contextual - WARNING - This is a warning message
+2025-03-07 17:01:06,681 - contextual - ERROR - This is an error message
+2025-03-07 17:01:06,682 - contextual - CRITICAL - This is a critical message
+2025-03-07 17:02:32,816 - contextual - DEBUG - This is a debug message
+2025-03-07 17:02:32,816 - contextual - INFO - This is an info message
+2025-03-07 17:02:32,816 - contextual - WARNING - This is a warning message
+2025-03-07 17:02:32,818 - contextual - ERROR - This is an error message
+2025-03-07 17:02:32,818 - contextual - CRITICAL - This is a critical message

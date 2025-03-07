@@ -1,0 +1,6 @@
+2025-03-07 16:56:16,756 - Exception_Logger - ERROR - An exception occured
+Traceback (most recent call last):
+  File "C:\Users\alisa\AppData\Local\Temp\ipykernel_13796\3627862155.py", line 12, in log_exception
+    1/0
+    ~^~
+ZeroDivisionError: division by zero
